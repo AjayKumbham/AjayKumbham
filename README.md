@@ -31,14 +31,45 @@ const ajayGoud = {
 
 ## 🛠️ Tech Arsenal
 
-| Category             | Tools & Technologies                                                                 |
-|----------------------|--------------------------------------------------------------------------------------|
-| 💻 Programming       | Java, Python, JavaScript, TypeScript                                                 |
-| 🌐 Frontend          | React, HTML5, CSS3, Tailwind CSS                                                     |
-| ⚙️ Backend & Frameworks | Spring Boot, Node.js, Express.js                                                  |
-| 🗄️ Databases         | MySQL, MongoDB, Supabase                                                             |
-| 🤖 AI & ML           | TensorFlow, scikit-learn, LangChain                                                  |
-| 🔧 Development Tools | Git, GitHub, Docker, VS Code, Postman, n8n                                           |
+<div align="center">
+  
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Tools & Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>💻 Programming</td>
+      <td>Java, Python, JavaScript, TypeScript</td>
+    </tr>
+    <tr>
+      <td>🌐 Frontend</td>
+      <td>React, HTML5, CSS3, Tailwind CSS</td>
+    </tr>
+    <tr>
+      <td>⚙️ Backend & Frameworks</td>
+      <td>Spring Boot, Node.js, Express.js</td>
+    </tr>
+    <tr>
+      <td>🗄️ Databases</td>
+      <td>MySQL, MongoDB, Supabase</td>
+    </tr>
+    <tr>
+      <td>🤖 AI & ML</td>
+      <td>TensorFlow, scikit-learn, LangChain</td>
+    </tr>
+    <tr>
+      <td>🔧 Development Tools</td>
+      <td>Git, GitHub, Docker, VS Code, Postman, n8n</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 
 
 ## 🏆 Achievements & Certifications
@@ -147,7 +178,7 @@ Modern UI/UX design with smooth animations and fully responsive layout with SEO 
   
 ### 💡 *"The best way to predict the future is to create it."* – Peter Drucker
 
-**🚀 Let's build something amazing together! Open to internships, collaborations, and exciting projects.**
+**🚀 Let's build something amazing together! Open to collaborations, contributions, and exciting projects.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Connect!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
