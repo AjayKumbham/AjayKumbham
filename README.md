@@ -7,8 +7,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AjayKumbham&style=for-the-badge&color=00D4FF&labelColor=0D1117" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Open to Collaborate" />
-  <img src="https://img.shields.io/badge/Focus-Learning%20%26%20Building-blue?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open_to-Internships_&_Job_Opportunities-25a162?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Live-black?style=for-the-badge&logo=vercel&logoColor=white" />
 </div>
 
 ## 🎯 About Me
