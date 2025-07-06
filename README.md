@@ -74,20 +74,54 @@ const ajayGoud = {
 
 <div align="center">
   
-| 🎯 **Achievement** | 📅 **Date** | 🏅 **Recognition** |
-|:---|:---:|:---|
-| **Top 1% All India** - NPTEL Programming in Java | Apr 2024 | Elite + Topper (IIT Kharagpur) |
-| **Top 1% All India** - NPTEL Cloud Computing | Mar 2025 | Gold + Topper (IIT Kanpur) |
-| **GATE 2025** - Computer Science | Feb 2025 | AIR 6600 (Among 1.7L+ candidates) |
-| **Academic Excellence Award** | 2024 | Top 2 in B.Tech CSE Department |
-| **VJ Hackathon Finalist** | 2024 | 2× National Level Recognition |
+### 🎯 **Academic Excellence & Competitive Achievements**
 
-### 📜 Recent Certifications
-- **Backend Development and APIs** - freeCodeCamp
-- **Frontend Developer (React)** - HackerRank  
-- **Software Engineering Job Simulation** - JPMorgan Chase & Co.
-- **AI Fundamentals** - IBM SkillsBuild
-- **Python Essentials** - Cisco Networking Academy
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/NPTEL-Top_1%25_All_India-gold?style=for-the-badge&logo=academia&logoColor=white" />
+<br><strong>Programming in Java</strong><br>
+<sub>IIT Kharagpur • Elite + Topper</sub><br>
+<sub>Apr 2024</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/NPTEL-Top_1%25_All_India-gold?style=for-the-badge&logo=academia&logoColor=white" />
+<br><strong>Cloud Computing</strong><br>
+<sub>IIT Kanpur • Gold + Topper</sub><br>
+<sub>Mar 2025</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/GATE_2025-AIR_6600-orange?style=for-the-badge&logo=target&logoColor=white" />
+<br><strong>Computer Science</strong><br>
+<sub>Among 1.7L+ candidates</sub><br>
+<sub>Feb 2025</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/Academic-Excellence_Award-brightgreen?style=for-the-badge&logo=award&logoColor=white" />
+<br><strong>Top 2 in Department</strong><br>
+<sub>B.Tech CSE, Vardhaman</sub><br>
+<sub>2024</sub>
+</td>
+</tr>
+</table>
+
+### 📜 **Professional Certifications**
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+
+![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Backend_Development-27273d?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-Frontend_Developer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+![JPMorgan](https://img.shields.io/badge/JPMorgan_Chase-Software_Engineering-0077be?style=for-the-badge&logo=jpmorgan&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-AI_Fundamentals-054ada?style=for-the-badge&logo=ibm&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-Python_Essentials-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
+
+### 🏅 **Competition Recognition**
+
+<img src="https://img.shields.io/badge/VJ_Hackathon-2×_National_Finalist-ff6b6b?style=for-the-badge&logo=trophy&logoColor=white" />
 
 </div>
 
@@ -97,78 +131,33 @@ const ajayGoud = {
   
 ### 🤖 AI-Powered Social Media Automation Platform
 **Tech Stack:** React, Tailwind CSS, Supabase, Python, LLMs
-- 🎯 Multi-platform content generation & scheduling (X, LinkedIn, Instagram, YouTube, Reddit, Hashnode, Dev.to)
-- 🧠 AI-driven prompting with multi-LLM support and fallback handling
-- 📊 Analytics dashboard with intelligent decision-making capabilities
-- 🔐 Secure authentication with Row Level Security (RLS)
+
+Multi-platform content generation & scheduling across X, LinkedIn, Instagram, YouTube, Reddit, Hashnode, and Dev.to with AI-driven prompting and multi-LLM support with fallback handling. Built comprehensive analytics dashboard with intelligent decision-making capabilities and secure authentication using Row Level Security (RLS).
 
 ### 🏥 Healthcare Member Onboarding System
 **Tech Stack:** Spring Boot, Spring Security, JWT, MySQL
-- 🔒 Enterprise-grade security with JWT authentication
-- 📱 Deep-link email/SMS outreach with OTP-based login
-- 🏗️ 29 REST APIs supporting comprehensive CRUD operations
-- ⚡ Async processing for fault tolerance and performance
+
+Enterprise-grade security implementation with JWT authentication, deep-link email/SMS outreach with OTP-based login system. Engineered 29 REST APIs supporting comprehensive CRUD operations with async processing for fault tolerance and optimal performance.
 
 ### 💼 Personal Portfolio Website
 **Tech Stack:** React, TypeScript, Tailwind CSS, Vite
-- 🎨 Modern UI/UX with smooth animations
-- 📱 Fully responsive design with SEO optimization
-- 🔄 Dynamic content loading with persistent theme toggle
-- 📧 Real-time contact form delivery
+
+Modern UI/UX design with smooth animations and fully responsive layout with SEO optimization. Implemented dynamic content loading with persistent theme toggle and real-time contact form delivery system.
 
 </div>
 
-## 💼 Professional Experience
+## 💼 Case Studies
 
 <div align="center">
   
-### 🏢 Backend Developer | Evernorth Health Services
-**📍 Vardhaman Innovation Lab** | Nov 2024 – Feb 2025
-- 🎯 **Price a Med Platform:** Streamlined secure member onboarding and profile management
-- 💊 **Medication Ordering System:** Built search, price comparison, and delivery tracking
-- 🔄 **Real-time Processing:** Implemented Kafka event streams for live updates
-- 🐳 **DevOps Integration:** Docker-based CI/CD deployment using Jenkins
+### 🏢 Price a Med | Evernorth Health Services
+**🧑‍💻 Role:** Backend Developer | **📍 Vardhaman Innovation Lab** | Nov 2024 – Feb 2025
 
-</div>
+**Price a Med Platform:** Streamlined secure member onboarding and profile management system with comprehensive workflows for contact, payment, and health data management.
 
-## 📈 Current Focus & Goals
+**Medication Ordering System:** Built advanced search functionality, price comparison engine, and delivery tracking system powered by real-time Kafka event streams.
 
-<div align="center">
-
-```javascript
-const currentGoals = {
-  🎯 shortTerm: [
-    "Building 5+ impressive open-source projects",
-    "Contributing to popular repositories",
-    "Mastering advanced system design concepts",
-    "Growing GitHub presence organically"
-  ],
-  🚀 longTerm: [
-    "Becoming a recognized contributor in AI/ML space",
-    "Building products that impact thousands of users",
-    "Mentoring upcoming developers",
-    "Leading innovative tech initiatives"
-  ],
-  🌟 learningPath: [
-    "Advanced Spring Boot & Microservices",
-    "Cloud Technologies (AWS/GCP)",
-    "DevOps & CI/CD Pipelines",
-    "AI/ML Model Deployment"
-  ]
-};
-```
-
-</div>
-
-## 🔥 What I'm Working On
-
-<div align="center">
-  
-- 🤖 **AI Automation Platform** - Scaling to support 10+ social media platforms
-- 🏗️ **Microservices Architecture** - Building distributed systems with Spring Boot
-- 📚 **Open Source Contributions** - Contributing to React and Spring Boot ecosystems
-- 🎯 **DSA Mastery** - Solving 500+ problems across different patterns
-- 🌐 **Full-Stack Projects** - Building end-to-end applications with modern tech stack
+**DevOps Integration:** Implemented Docker-based CI/CD deployment pipeline using Jenkins for automated testing and deployment processes.
 
 </div>
 
@@ -180,27 +169,6 @@ const currentGoals = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumbham-ajay-goud)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaygoud.kumbham@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AjayKumbham)
-
-**📞 Phone:** +91-9391942662
-
-</div>
-
-## 💡 Why Work With Me?
-
-<div align="center">
-  
-```typescript
-const whyChooseMe = {
-  🎓 academicExcellence: "Top 1% performer in competitive national programs",
-  💼 practicalExperience: "Enterprise-level project development experience",
-  🚀 innovationMindset: "2× National hackathon finalist with proven problem-solving skills",
-  🔧 technicalVersatility: "Full-stack development with AI/ML integration capabilities",
-  📈 continuousLearning: "Always staying updated with latest technologies and best practices",
-  🤝 collaborationReady: "Strong communication skills and team player attitude"
-};
-```
-
-</div>
 
 ---
 
