@@ -1,8 +1,9 @@
 # 🚀 Kumbham Ajay Goud
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+Automation+Engineer+%F0%9F%A4%96;Top+1%25+NPTEL+Achiever+%F0%9F%8F%86;Innovation+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+Automation+Engineer+%F0%9F%A4%96;Data+Analyst+%F0%9F%93%8A;Top+1%25+NPTEL+Achiever+%F0%9F%8F%86;Innovation+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AjayKumbham&style=for-the-badge&color=00D4FF&labelColor=0D1117" alt="Profile Views" />
@@ -15,23 +16,17 @@
 ```typescript
 const ajayGoud = {
   name: "Kumbham Ajay Goud",
-  role: "Full-Stack Developer & AI Automation Engineer",
-  education: {
-    degree: "B.Tech Computer Science & Engineering",
-    institution: "Vardhaman College of Engineering, Hyderabad",
-    cgpa: "9.71/10",
-    year: "2022-2026"
-  },
+  role: "Full-Stack Developer | AI & Automation Engineer | Data Analyst",
   location: "Hyderabad, India",
-  achievements: [
-    "🏆 Top 1% All India - NPTEL Programming in Java (IIT Kharagpur)",
-    "🥇 Top 1% All India - NPTEL Cloud Computing (IIT Kanpur)", 
-    "🎯 GATE 2025 - AIR 6600 (Among 1.7L+ candidates)",
-    "🌟 Academic Excellence Award - Top 2 in B.Tech CSE Department",
-    "🚀 2× National Level VJ Hackathon Finalist"
-  ],
-  currentFocus: "Building impressive projects & contributing to open source",
-  portfolioWebsite: "https://ajaykumbham-portfolio.vercel.app"
+  education: {
+    degree: "B.Tech in CSE",
+    institution: "Vardhaman College of Engineering",
+    cgpa: "9.71/10",
+    graduationYear: 2026
+  },
+  status: "Open to job opportunities, internships, open-source contributions, and collaborations",
+  portfolio: "https://ajaykumbham-portfolio.vercel.app",
+  contact: "ajaygoud.kumbham@gmail.com"
 };
 ```
 
@@ -64,12 +59,15 @@ const ajayGoud = {
 ### 🤖 AI & ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### 🔧 Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EF7C00?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
 
