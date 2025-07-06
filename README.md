@@ -112,23 +112,17 @@ const ajayGoud = {
 ### 📜 **Professional Certifications**
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
   <!-- Data & AI -->
-  <img src="https://img.shields.io/badge/Microsoft%20%26%20LinkedIn-Career_Essentials_in_Data_Analysis-0078d4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tata%20(Forage)-GenAI_Data_Analytics_Simulation-294E88?style=for-the-badge&logo=forage&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-054ada?style=for-the-badge&logo=ibm&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Microsoft%20%26%20LinkedIn-Career_Essentials_in_Data_Analysis-0078d4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tata%20%28Forage%29-GenAI_Data_Analytics_Simulation-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-054ada?style=for-the-badge" />
   <!-- Web & Backend -->
-  <img src="https://img.shields.io/badge/freeCodeCamp-Backend_Development_%26_APIs-27273d?style=for-the-badge&logo=freecodecamp&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-Frontend_Developer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPMorgan%20%28Forage%29-Software_Engineering_Virtual_Exp-003865?style=for-the-badge&logo=jpmorgan&logoColor=white" />
-
-  <!-- Programming Foundations -->
-  <img src="https://img.shields.io/badge/Cisco-Python_Essentials-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/freeCodeCamp-Backend_Development_%26_APIs-27273d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HackerRank-Frontend_Developer-00EA64?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JPMorgan%20%28Forage%29-Software_Engineering_Virtual_Experience-0078D4?style=for-the-badge" />
+  <!-- Programming Fundamentals -->
+  <img src="https://img.shields.io/badge/Cisco-Python_Essentials-1ba0d7?style=for-the-badge" />
 </div>
-
-
 
 
 ### 🏅 **Competition Recognition**
