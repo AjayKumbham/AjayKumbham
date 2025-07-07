@@ -8,7 +8,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AjayKumbham&style=for-the-badge&color=00D4FF&labelColor=0D1117" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Open_to-Internships_&_Job_Opportunities-25a162?style=for-the-badge&logo=rocket&logoColor=white" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=AjayKumbham&limit=1&theme=dark&combine_all_yearly_contributions=true&hide_title=true&hide_border=true" alt="Total Contributions" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjayKumbham&theme=transparent&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=00D4FF&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" />
 </div>
 
 ## 🎯 About Me
