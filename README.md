@@ -82,13 +82,13 @@ const ajayGoud = {
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/NPTEL-Top_1%25_All_India-gold?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/NPTEL-Top_1%25_All_India-gold?style=for-the-badge" />
 <br><strong>Programming in Java</strong><br>
 <sub>IIT Kharagpur • Elite + Topper</sub><br>
 <sub>Apr 2024</sub>
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/NPTEL-Top_1%25_All_India-gold?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/NPTEL-Top_1%25_All_India-gold?style=for-the-badge" />
 <br><strong>Cloud Computing</strong><br>
 <sub>IIT Kanpur • Gold + Topper</sub><br>
 <sub>Mar 2025</sub>
@@ -96,13 +96,13 @@ const ajayGoud = {
 </tr>
 <tr>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/GATE_2025-AIR_6600-orange?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/GATE_2025-AIR_6600-orange?style=for-the-badge" />
 <br><strong>Computer Science</strong><br>
 <sub>Among 1.7L+ candidates</sub><br>
 <sub>Feb 2025</sub>
 </td>
 <td align="center" width="50%">
-<img src="https://img.shields.io/badge/Academic-Excellence_Award-brightgreen?style=for-the-badge&logo=award&logoColor=white" />
+<img src="https://img.shields.io/badge/Academic-Excellence_Award-brightgreen?style=for-the-badge" />
 <br><strong>Top 2 in Department</strong><br>
 <sub>B.Tech CSE, Vardhaman</sub><br>
 <sub>2024</sub>
@@ -141,7 +141,7 @@ const ajayGoud = {
 
 Multi-platform content generation & scheduling across X, LinkedIn, Instagram, YouTube, Reddit, Hashnode, and Dev.to with AI-driven prompting and multi-LLM support with fallback handling. Built comprehensive analytics dashboard with intelligent decision-making capabilities and secure authentication using Row Level Security (RLS).
 
-### 🏥 Healthcare Member Onboarding System
+### 🏥 Enterprise Backend for Healthcare Member Onboarding & Profile Management
 **Tech Stack:** Spring Boot, Spring Security, JWT, MySQL
 
 Enterprise-grade security implementation with JWT authentication, deep-link email/SMS outreach with OTP-based login system. Engineered 29 REST APIs supporting comprehensive CRUD operations with async processing for fault tolerance and optimal performance.
