@@ -8,9 +8,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AjayKumbham&style=for-the-badge&color=00D4FF&labelColor=0D1117" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Open_to-Internships_&_Job_Opportunities-25a162?style=for-the-badge&logo=rocket&logoColor=white" />
-  [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=AjayKumbham&cache_bust=1)](https://git.io/streak-stats)
-
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AjayKumbham&theme=dark" alt="GitHub Streak" />
+</div>
 
 ## 🎯 About Me
 
