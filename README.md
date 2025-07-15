@@ -1,215 +1,30 @@
-# 🚀 Kumbham Ajay Goud
+Hi 👋 My name is Kumbham Ajay Goud
+==================================
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&background=0D1117&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+Automation+Engineer+%F0%9F%A4%96;Data+Analyst+%F0%9F%93%8A;Top+1%25+NPTEL+Achiever+%F0%9F%8F%86;Innovation+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
-</div>
+Full-Stack Developer | AI & Automation Engineer | Data Analyst
+--------------------------------------------------------------
 
+* 🌍  I'm based in Hyderabad, Telangana, India
+* 🖥️  See my portfolio at [ajaykumbham-portfolio.vercel.app](http://ajaykumbham-portfolio.vercel.app/)
+* ✉️  You can contact me at [ajaygoud.kumbham@gmail.com](mailto:ajaygoud.kumbham@gmail.com)
+* ⚡  I'm currently open to internships and job opportunities.
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AjayKumbham&style=for-the-badge&color=00D4FF&labelColor=0D1117" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Open_to-Internships_&_Job_Opportunities-25a162?style=for-the-badge&logo=rocket&logoColor=white" />
-  <img src="https://streak-stats.demolab.com/?user=AjayKumbham&theme=radical&fire=FF5F5F&ring=00D4FF" />
-</div>
-
-## 🎯 About Me
-
-```typescript
-const ajayGoud = {
-  name: "Kumbham Ajay Goud",
-  role: "Full-Stack Developer | AI & Automation Engineer | Data Analyst",
-  location: "Hyderabad, India",
-  education: {
-    degree: "B.Tech in CSE",
-    institution: "Vardhaman College of Engineering",
-    cgpa: "9.71/10",
-    graduationYear: 2026
-  },
-  status: "Open to job opportunities, internships, open-source contributions, and collaborations",
-  portfolio: "https://ajaykumbham-portfolio.vercel.app",
-  contact: "ajaygoud.kumbham@gmail.com"
-};
-```
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-  
-<table>
-  <thead>
-    <tr>
-      <th>Category</th>
-      <th>Tools & Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>💻 Programming</td>
-      <td>Java, Python, JavaScript, TypeScript</td>
-    </tr>
-    <tr>
-      <td>🌐 Frontend</td>
-      <td>React, HTML5, CSS3, Tailwind CSS</td>
-    </tr>
-    <tr>
-      <td>⚙️ Backend & Frameworks</td>
-      <td>Spring Boot, Node.js, Express.js</td>
-    </tr>
-    <tr>
-      <td>🗄️ Databases</td>
-      <td>MySQL, MongoDB, Supabase</td>
-    </tr>
-    <tr>
-      <td>🤖 AI & ML</td>
-      <td>TensorFlow, scikit-learn, LangChain</td>
-    </tr>
-    <tr>
-      <td>🔧 Development Tools</td>
-      <td>Git, GitHub, Docker, VS Code, Postman, n8n</td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
+### Skills
 
 
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-  
-### 🎯 **Academic Excellence & Competitive Achievements**
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/NPTEL-Top_1%25_All_India-gold?style=for-the-badge" />
-<br><strong>Programming in Java</strong><br>
-<sub>IIT Kharagpur • Elite + Topper</sub><br>
-<sub>Apr 2024</sub>
-</td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/NPTEL-Top_1%25_All_India-gold?style=for-the-badge" />
-<br><strong>Cloud Computing</strong><br>
-<sub>IIT Kanpur • Gold + Topper</sub><br>
-<sub>Mar 2025</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/GATE_2025-AIR_6600-orange?style=for-the-badge" />
-<br><strong>Computer Science</strong><br>
-<sub>Among 1.7L+ candidates</sub><br>
-<sub>Feb 2025</sub>
-</td>
-<td align="center" width="50%">
-<img src="https://img.shields.io/badge/Academic-Excellence_Award-brightgreen?style=for-the-badge" />
-<br><strong>Top 2 in Department</strong><br>
-<sub>B.Tech CSE, Vardhaman</sub><br>
-<sub>2024</sub>
-</td>
-</tr>
-</table>
-
-### 📜 Professional Certifications
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>Career Essentials in Data Analysis</td>
-    <td>Microsoft & LinkedIn Learning</td>
-  </tr>
-  <tr>
-    <td>Generative AI & Data Analytics Internship</td>
-    <td>Tata (Forage)</td>
-  </tr>
-  <tr>
-    <td>AI Fundamentals</td>
-    <td>IBM</td>
-  </tr>
-  <tr>
-    <td>Backend Development & APIs</td>
-    <td>freeCodeCamp</td>
-  </tr>
-  <tr>
-    <td>Frontend Developer</td>
-    <td>HackerRank</td>
-  </tr>
-  <tr>
-    <td>Software Engineering Virtual Experience</td>
-    <td>JPMorgan Chase (Forage)</td>
-  </tr>
-  <tr>
-    <td>Python Essentials</td>
-    <td>Cisco Networking Academy</td>
-  </tr>
-</table>
-
-</div>
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express"/></a><a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot"/></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" title="Fast API"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="Supabase"/></a><a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" title="MetaMask"/></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
+</p>
 
 
+### Socials
 
+<p align="left"> <a href="https://www.github.com/AjayKumbham" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/kumbham-ajay-goud/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
+### Badges
 
-### 🏅 **Competition Recognition**
+<b>My GitHub Stats</b>
 
-<img src="https://img.shields.io/badge/VJ_Hackathon-2×_National_Finalist-ff6b6b?style=for-the-badge&logo=trophy&logoColor=white" />
+<a href="http://www.github.com/AjayKumbham"><img src="https://github-readme-stats.vercel.app/api?username=AjayKumbham&show_icons=true&hide=stars,&count_private=true&title_color=ffffff&text_color=10b981&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AjayKumbham's GitHub stats" /></a>
 
-</div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-  
-### 🤖 AI-Powered Social Media Automation Platform
-**Tech Stack:** React, Tailwind CSS, Supabase, Python, LLMs
-
-Multi-platform content generation & scheduling across X, LinkedIn, Instagram, YouTube, Reddit, Hashnode, and Dev.to with AI-driven prompting and multi-LLM support with fallback handling. Built comprehensive analytics dashboard with intelligent decision-making capabilities and secure authentication using Row Level Security (RLS).
-
-### 🏥 Enterprise Backend for Healthcare Member Onboarding & Profile Management
-**Tech Stack:** Spring Boot, Spring Security, JWT, MySQL
-
-Enterprise-grade security implementation with JWT authentication, deep-link email/SMS outreach with OTP-based login system. Engineered 29 REST APIs supporting comprehensive CRUD operations with async processing for fault tolerance and optimal performance.
-
-### 💼 Personal Portfolio Website
-**Tech Stack:** React, TypeScript, Tailwind CSS, Vite
-
-Modern UI/UX design with smooth animations and fully responsive layout with SEO optimization. Implemented dynamic content loading with persistent theme toggle and real-time contact form delivery system.
-
-</div>
-
-## 💼 Case Studies
-
-<div align="center">
-  
-### 🏢 Price a Med | Evernorth Health Services
-**🧑‍💻 Role:** Backend Developer | **📍 Vardhaman Innovation Lab** | Nov 2024 – Feb 2025
-
-**Price a Med Platform:** Streamlined secure member onboarding and profile management system with comprehensive workflows for contact, payment, and health data management.
-
-**Medication Ordering System:** Built advanced search functionality, price comparison engine, and delivery tracking system powered by real-time Kafka event streams.
-
-**DevOps Integration:** Implemented Docker-based CI/CD deployment pipeline using Jenkins for automated testing and deployment processes.
-
-</div>
-
-## 🌐 Connect & Collaborate
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ajaykumbham-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumbham-ajay-goud)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajaygoud.kumbham@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AjayKumbham)
-
----
-
-<div align="center">
-  
-### 💡 *"The best way to predict the future is to create it."* – Peter Drucker
-
-**🚀 Let's build something amazing together! Open to collaborations, contributions, and exciting projects.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Connect!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
-
-</div>
+<a href="http://www.github.com/AjayKumbham"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AjayKumbham&stroke=10b981&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=10b981&currStreakLabel=ffffff&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
