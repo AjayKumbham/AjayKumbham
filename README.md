@@ -8,8 +8,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AjayKumbham&style=for-the-badge&color=00D4FF&labelColor=0D1117" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Open_to-Internships_&_Job_Opportunities-25a162?style=for-the-badge&logo=rocket&logoColor=white" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=AjayKumbham&show_icons=true&theme=radical&hide=stars" alt="Ajay's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=AjayKumbham&theme=radical&fire=FF5F5F&ring=00D4FF" />
 </div>
 
 ## 🎯 About Me
@@ -111,20 +110,45 @@ const ajayGoud = {
 </tr>
 </table>
 
-### 📜 **Professional Certifications**
+### 📜 Professional Certifications
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <!-- Data & AI -->
-  <img src="https://img.shields.io/badge/Microsoft%20%26%20LinkedIn-Career_Essentials_in_Data_Analysis-0078d4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tata%20%28Forage%29-GenAI_Data_Analytics_Simulation-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-054ada?style=for-the-badge" />
-  <!-- Web & Backend -->
-  <img src="https://img.shields.io/badge/freeCodeCamp-Backend_Development_%26_APIs-27273d?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HackerRank-Frontend_Developer-00EA64?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JPMorgan%20%28Forage%29-Software_Engineering_Virtual_Experience-0078D4?style=for-the-badge" />
-  <!-- Programming Fundamentals -->
-  <img src="https://img.shields.io/badge/Cisco-Python_Essentials-1ba0d7?style=for-the-badge" />
+<div align="center">
+
+<table>
+  <tr>
+    <td>Career Essentials in Data Analysis</td>
+    <td>Microsoft & LinkedIn Learning</td>
+  </tr>
+  <tr>
+    <td>Generative AI & Data Analytics Internship</td>
+    <td>Tata (Forage)</td>
+  </tr>
+  <tr>
+    <td>AI Fundamentals</td>
+    <td>IBM</td>
+  </tr>
+  <tr>
+    <td>Backend Development & APIs</td>
+    <td>freeCodeCamp</td>
+  </tr>
+  <tr>
+    <td>Frontend Developer</td>
+    <td>HackerRank</td>
+  </tr>
+  <tr>
+    <td>Software Engineering Virtual Experience</td>
+    <td>JPMorgan Chase (Forage)</td>
+  </tr>
+  <tr>
+    <td>Python Essentials</td>
+    <td>Cisco Networking Academy</td>
+  </tr>
+</table>
+
 </div>
+
+
+
 
 
 ### 🏅 **Competition Recognition**
