@@ -25,6 +25,6 @@ Full-Stack Developer | AI & Automation Engineer | Data Analyst
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AjayKumbham&color=blue)
 
-<a href="http://www.github.com/AjayKumbham"><img src="https://github-readme-stats.vercel.app/api?username=AjayKumbham&show_icons=true&hide=stars,&count_private=true&title_color=ffffff&text_color=10b981&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AjayKumbham's GitHub stats" /></a>
+<a href="http://www.github.com/AjayKumbham"><img src="https://github-readme-stats.vercel.app/api?username=AjayKumbham&show_icons=true&hide=stars,&title_color=ffffff&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AjayKumbham's GitHub stats" /></a>
 
 <a href="http://www.github.com/AjayKumbham"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AjayKumbham&stroke=10b981&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=10b981&currStreakLabel=ffffff&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
