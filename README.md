@@ -1,8 +1,8 @@
 Hi 👋 My name is Kumbham Ajay Goud
 ==================================
 
-Full-Stack Developer | AI & Automation Engineer | Data Analyst
---------------------------------------------------------------
+Full-Stack Developer | AI & Automation Engineer 
+-----------------------------------------------
 
 * 🌍  I'm based in Hyderabad, Telangana, India
 * 🖥️  See my portfolio at [ajaykumbham-portfolio.vercel.app](http://ajaykumbham-portfolio.vercel.app/)
