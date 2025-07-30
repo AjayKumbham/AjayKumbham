@@ -21,6 +21,13 @@ Full-Stack Developer | AI & Automation Engineer
 
 <p align="left"> <a href="https://www.github.com/AjayKumbham" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/kumbham-ajay-goud/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
+## 🌟 Open Source Contributions
+
+| Project | Description | PR Link |
+|---------|-------------|---------|
+| <a href="https://github.com/adap/flower"><img src="https://github.com/adap.png" width="30" height="30" style="border-radius: 50%; vertical-align: middle;"> <strong>Flower</strong></a> | 🧠 Federated Learning Framework | [#1416](https://github.com/adap/flower/pull/1416) |
+| <a href="https://github.com/denoland/deno"><img src="https://github.com/denoland.png" width="30" height="30" style="border-radius: 50%; vertical-align: middle;"> <strong>Deno</strong></a> | ⚡ JavaScript/TypeScript Runtime | [#24350](https://github.com/denoland/deno/pull/24350) |
+
 ### My GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AjayKumbham&color=blue)
