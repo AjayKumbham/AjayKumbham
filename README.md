@@ -22,7 +22,7 @@ Full-Stack Developer | AI & Automation Engineer
 |---------|-------------|---------|
 | <img src="https://github.com/denoland.png?size=40" width="40" height="40" valign="middle"> &nbsp; [**Deno**](https://github.com/denoland/deno) | ⚡ JavaScript/TypeScript Runtime | [#30183](https://github.com/denoland/deno/pull/30183) |
 | <img src="https://github.com/adap.png?size=40" width="40" height="40" valign="middle"> &nbsp; [**Flower**](https://github.com/adap/flower) | 🧠 Federated Learning Framework | [#5579](https://github.com/adap/flower/pull/5579) |
-| <img src="https://github.com/google.png?size=40" width="40" height="40" valign="middle"> &nbsp; [**Gemini CLI**](https://github.com/google/gemini-cli) | 🤖 Gemini AI CLI Agent | [#5216](https://github.com/google/gemini-cli/pull/5216) |
+| <img src="https://github.com/google-gemini.png?size=40" width="40" height="40" valign="middle"> &nbsp; [**Gemini CLI**](https://github.com/google-gemini/gemini-cli) | 🤖 Gemini AI CLI Agent | [#5216](https://github.com/google/gemini-cli/pull/5216) |
 
 ### My GitHub Stats
 
