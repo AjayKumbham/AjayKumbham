@@ -1,9 +1,3 @@
-Hi 👋 My name is Kumbham Ajay Goud
-==================================
-
-### Full-Stack Developer | AI & Automation Engineer 
-----------------------------------------------
-
 ### Skills
 
 
@@ -19,10 +13,8 @@ Hi 👋 My name is Kumbham Ajay Goud
 | <img src="https://github.com/adap.png?size=40" width="40" height="40" valign="middle"> &nbsp; [**Flower**](https://github.com/adap/flower) | 🧠 Federated Learning Framework | [#5579](https://github.com/adap/flower/pull/5579) |
 | <img src="https://github.com/google-gemini.png?size=40" width="40" height="40" valign="middle"> &nbsp; [**Gemini CLI**](https://github.com/google-gemini/gemini-cli) | 🤖 Gemini AI CLI Agent | [#5216](https://github.com/google-gemini/gemini-cli/pull/5216) |
 
-### My GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AjayKumbham&color=blue)
 
-<a href="http://www.github.com/AjayKumbham"><img src="https://github-readme-stats.vercel.app/api?username=AjayKumbham&show_icons=true&hide=stars,&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AjayKumbham's GitHub stats" /></a>
 
 
